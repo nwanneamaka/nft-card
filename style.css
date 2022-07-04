@@ -29,12 +29,12 @@ body {
   width: 80%;
   max-width: 350px;
   margin: 0 auto;
-  margin-top: 20px;
+  margin-top: 15px;
   margin-bottom: 50px;
 }
 
 .nft-container {
-  padding: 35px;
+  padding: 25px;
   border-radius: 10px;
   background-color: var(--card-background);
 }
